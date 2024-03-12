@@ -1,0 +1,1 @@
+An algoritm that uses landmarks in order to find the shortest possible path.
